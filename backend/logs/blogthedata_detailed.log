@@ -1,0 +1,393 @@
+INFO 2024-09-25 10:34:47,524 MainThread 19064 autoreload autoreload.py 668 django.utils.autoreload run_with_reloader 14848 Watching for file changes with StatReloader
+INFO 2024-09-25 10:34:57,932 Thread-1 (process_request_thread) 28520 basehttp basehttp.py 212 django.server log_message 14848 "GET /api/items/1/ HTTP/1.1" 200 15406
+INFO 2024-09-25 10:34:58,188 Thread-4 (process_request_thread) 16392 basehttp basehttp.py 212 django.server log_message 14848 "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1793
+INFO 2024-09-25 10:34:58,251 Thread-2 (process_request_thread) 25316 basehttp basehttp.py 212 django.server log_message 14848 "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3796
+INFO 2024-09-25 10:34:58,286 Thread-3 (process_request_thread) 23248 basehttp basehttp.py 212 django.server log_message 14848 "GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 200 87533
+INFO 2024-09-25 10:34:58,455 Thread-5 (process_request_thread) 23124 basehttp basehttp.py 212 django.server log_message 14848 "GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 200 59
+INFO 2024-09-25 10:34:58,455 Thread-4 (process_request_thread) 16392 basehttp basehttp.py 212 django.server log_message 14848 "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+INFO 2024-09-25 10:34:58,465 Thread-3 (process_request_thread) 23248 basehttp basehttp.py 212 django.server log_message 14848 "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+INFO 2024-09-25 10:34:58,465 Thread-2 (process_request_thread) 25316 basehttp basehttp.py 212 django.server log_message 14848 "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+INFO 2024-09-25 10:43:35,742 MainThread 19064 autoreload autoreload.py 266 django.utils.autoreload trigger_reload 14848 C:\Users\akhil\OneDrive\Desktop\Todolist\backend\backend\settings.py changed, reloading.
+INFO 2024-09-25 10:43:36,494 MainThread 3504 autoreload autoreload.py 668 django.utils.autoreload run_with_reloader 19652 Watching for file changes with StatReloader
+INFO 2024-09-25 10:44:13,390 MainThread 3504 autoreload autoreload.py 266 django.utils.autoreload trigger_reload 19652 C:\Users\akhil\OneDrive\Desktop\Todolist\backend\todo\views.py changed, reloading.
+INFO 2024-09-25 10:44:13,985 MainThread 22760 autoreload autoreload.py 668 django.utils.autoreload run_with_reloader 22240 Watching for file changes with StatReloader
+INFO 2024-09-25 10:44:16,679 MainThread 22760 autoreload autoreload.py 266 django.utils.autoreload trigger_reload 22240 C:\Users\akhil\OneDrive\Desktop\Todolist\backend\todo\views.py changed, reloading.
+INFO 2024-09-25 10:44:17,299 MainThread 30968 autoreload autoreload.py 668 django.utils.autoreload run_with_reloader 30232 Watching for file changes with StatReloader
+INFO 2024-09-25 10:44:18,893 MainThread 30968 autoreload autoreload.py 266 django.utils.autoreload trigger_reload 30232 C:\Users\akhil\OneDrive\Desktop\Todolist\backend\todo\views.py changed, reloading.
+INFO 2024-09-25 10:44:19,589 MainThread 26616 autoreload autoreload.py 668 django.utils.autoreload run_with_reloader 36272 Watching for file changes with StatReloader
+INFO 2024-09-25 10:44:24,210 MainThread 26616 autoreload autoreload.py 266 django.utils.autoreload trigger_reload 36272 C:\Users\akhil\OneDrive\Desktop\Todolist\backend\todo\views.py changed, reloading.
+INFO 2024-09-25 10:44:24,854 MainThread 32028 autoreload autoreload.py 668 django.utils.autoreload run_with_reloader 21672 Watching for file changes with StatReloader
+INFO 2024-09-25 10:44:26,358 MainThread 32028 autoreload autoreload.py 266 django.utils.autoreload trigger_reload 21672 C:\Users\akhil\OneDrive\Desktop\Todolist\backend\todo\views.py changed, reloading.
+INFO 2024-09-25 10:44:26,986 MainThread 2152 autoreload autoreload.py 668 django.utils.autoreload run_with_reloader 28648 Watching for file changes with StatReloader
+INFO 2024-09-25 10:44:34,541 Thread-1 (process_request_thread) 9204 views views.py 47 inventory get_object 28648 Cache hit for item 2
+INFO 2024-09-25 10:44:34,651 Thread-1 (process_request_thread) 9204 basehttp basehttp.py 212 django.server log_message 28648 "GET /api/items/2/ HTTP/1.1" 200 15376
+WARNING 2024-09-25 10:45:28,968 Thread-1 (process_request_thread) 9204 basehttp basehttp.py 212 django.server log_message 28648 "GET /api/items/ HTTP/1.1" 405 12706
+WARNING 2024-09-25 10:46:31,670 Thread-1 (process_request_thread) 9204 basehttp basehttp.py 212 django.server log_message 28648 "POST /api/items/ HTTP/1.1" 400 12833
+WARNING 2024-09-25 10:47:26,505 Thread-1 (process_request_thread) 9204 basehttp basehttp.py 212 django.server log_message 28648 "POST /api/items/ HTTP/1.1" 400 12833
+INFO 2024-09-25 10:47:39,496 Thread-1 (process_request_thread) 9204 views views.py 47 inventory get_object 28648 Cache hit for item 2
+INFO 2024-09-25 10:47:39,591 Thread-1 (process_request_thread) 9204 basehttp basehttp.py 212 django.server log_message 28648 "GET /api/items/2/ HTTP/1.1" 200 15376
+INFO 2024-09-25 10:47:41,950 Thread-1 (process_request_thread) 9204 views views.py 47 inventory get_object 28648 Cache hit for item 2
+INFO 2024-09-25 10:47:42,018 Thread-1 (process_request_thread) 9204 basehttp basehttp.py 212 django.server log_message 28648 "GET /api/items/2/ HTTP/1.1" 200 15376
+INFO 2024-09-25 11:05:56,392 MainThread 2152 autoreload autoreload.py 266 django.utils.autoreload trigger_reload 28648 C:\Users\akhil\OneDrive\Desktop\Todolist\backend\backend\settings.py changed, reloading.
+INFO 2024-09-25 11:06:25,065 MainThread 7392 autoreload autoreload.py 668 django.utils.autoreload run_with_reloader 26776 Watching for file changes with StatReloader
+INFO 2024-09-25 11:10:26,018 MainThread 7392 autoreload autoreload.py 266 django.utils.autoreload trigger_reload 26776 C:\Users\akhil\OneDrive\Desktop\Todolist\backend\todo\views.py changed, reloading.
+INFO 2024-09-25 11:10:26,693 MainThread 12440 autoreload autoreload.py 668 django.utils.autoreload run_with_reloader 10644 Watching for file changes with StatReloader
+INFO 2024-09-25 11:11:22,305 Thread-1 (process_request_thread) 21216 views views.py 46 inventory get_object 10644 Cache hit for item 2
+INFO 2024-09-25 11:11:22,371 Thread-1 (process_request_thread) 21216 views views.py 83 inventory destroy 10644 Item 2 deleted and removed from cache
+INFO 2024-09-25 11:11:22,847 Thread-1 (process_request_thread) 21216 basehttp basehttp.py 212 django.server log_message 10644 "DELETE /api/items/2/ HTTP/1.1" 200 15185
+INFO 2024-09-25 11:12:28,675 Thread-1 (process_request_thread) 21216 basehttp basehttp.py 212 django.server log_message 10644 "OPTIONS /api/items/2/ HTTP/1.1" 200 15538
+INFO 2024-09-25 11:12:38,276 Thread-1 (process_request_thread) 21216 views views.py 46 inventory get_object 10644 Cache hit for item 3
+INFO 2024-09-25 11:12:38,349 Thread-1 (process_request_thread) 21216 basehttp basehttp.py 212 django.server log_message 10644 "GET /api/items/3/ HTTP/1.1" 200 15352
+INFO 2024-09-25 11:12:42,262 Thread-1 (process_request_thread) 21216 views views.py 46 inventory get_object 10644 Cache hit for item 3
+INFO 2024-09-25 11:12:42,399 Thread-1 (process_request_thread) 21216 basehttp basehttp.py 212 django.server log_message 10644 "GET /api/items/3/ HTTP/1.1" 200 15352
+INFO 2024-09-25 11:13:10,490 Thread-1 (process_request_thread) 21216 views views.py 46 inventory get_object 10644 Cache hit for item 3
+INFO 2024-09-25 11:13:10,614 Thread-1 (process_request_thread) 21216 views views.py 66 inventory update 10644 Item 3 updated and cache invalidated
+INFO 2024-09-25 11:13:10,626 Thread-1 (process_request_thread) 21216 basehttp basehttp.py 212 django.server log_message 10644 "PUT /api/items/3/ HTTP/1.1" 200 15382
+INFO 2024-09-25 11:18:55,571 MainThread 12440 autoreload autoreload.py 266 django.utils.autoreload trigger_reload 10644 C:\Users\akhil\OneDrive\Desktop\Todolist\backend\todo\views.py changed, reloading.
+INFO 2024-09-25 11:18:56,394 MainThread 12320 autoreload autoreload.py 668 django.utils.autoreload run_with_reloader 24848 Watching for file changes with StatReloader
+INFO 2024-09-25 11:19:02,559 MainThread 12320 autoreload autoreload.py 266 django.utils.autoreload trigger_reload 24848 C:\Users\akhil\OneDrive\Desktop\Todolist\backend\todo\views.py changed, reloading.
+INFO 2024-09-25 11:19:03,357 MainThread 14216 autoreload autoreload.py 668 django.utils.autoreload run_with_reloader 35948 Watching for file changes with StatReloader
+INFO 2024-09-25 11:19:10,211 MainThread 14216 autoreload autoreload.py 266 django.utils.autoreload trigger_reload 35948 C:\Users\akhil\OneDrive\Desktop\Todolist\backend\todo\views.py changed, reloading.
+INFO 2024-09-25 11:19:11,113 MainThread 38828 autoreload autoreload.py 668 django.utils.autoreload run_with_reloader 20112 Watching for file changes with StatReloader
+INFO 2024-09-25 11:19:20,437 MainThread 38828 autoreload autoreload.py 266 django.utils.autoreload trigger_reload 20112 C:\Users\akhil\OneDrive\Desktop\Todolist\backend\todo\views.py changed, reloading.
+INFO 2024-09-25 11:19:21,162 MainThread 18252 autoreload autoreload.py 668 django.utils.autoreload run_with_reloader 13624 Watching for file changes with StatReloader
+WARNING 2024-09-25 11:19:28,053 Thread-1 (process_request_thread) 3848 basehttp basehttp.py 212 django.server log_message 13624 "GET /api/items/3/ HTTP/1.1" 401 10206
+INFO 2024-09-25 11:34:01,560 Thread-3 (process_request_thread) 19584 basehttp basehttp.py 212 django.server log_message 13624 "OPTIONS /api/items/ HTTP/1.1" 200 0
+INFO 2024-09-25 11:34:01,560 Thread-4 (process_request_thread) 38896 basehttp basehttp.py 212 django.server log_message 13624 "OPTIONS /api/items/ HTTP/1.1" 200 0
+WARNING 2024-09-25 11:34:01,735 Thread-3 (process_request_thread) 19584 basehttp basehttp.py 212 django.server log_message 13624 "GET /api/items/ HTTP/1.1" 401 183
+WARNING 2024-09-25 11:34:01,735 Thread-3 (process_request_thread) 19584 basehttp basehttp.py 212 django.server log_message 13624 "GET /api/items/ HTTP/1.1" 401 183
+INFO 2024-09-25 11:34:01,748 Thread-3 (process_request_thread) 19584 basehttp basehttp.py 212 django.server log_message 13624 "OPTIONS /api/token/refresh/ HTTP/1.1" 200 0
+WARNING 2024-09-25 11:34:01,748 Thread-4 (process_request_thread) 38896 basehttp basehttp.py 212 django.server log_message 13624 "POST /api/token/refresh/ HTTP/1.1" 401 65
+WARNING 2024-09-25 11:34:01,758 Thread-3 (process_request_thread) 19584 basehttp basehttp.py 212 django.server log_message 13624 "POST /api/token/refresh/ HTTP/1.1" 401 65
+INFO 2024-09-25 11:35:23,954 Thread-3 (process_request_thread) 19584 basehttp basehttp.py 212 django.server log_message 13624 "OPTIONS /api/token/ HTTP/1.1" 200 0
+INFO 2024-09-25 11:35:24,788 Thread-3 (process_request_thread) 19584 basehttp basehttp.py 212 django.server log_message 13624 "POST /api/token/ HTTP/1.1" 200 483
+WARNING 2024-09-25 11:36:29,639 Thread-3 (process_request_thread) 19584 basehttp basehttp.py 212 django.server log_message 13624 "GET /api/items/ HTTP/1.1" 405 40
+WARNING 2024-09-25 11:36:29,691 Thread-3 (process_request_thread) 19584 basehttp basehttp.py 212 django.server log_message 13624 "GET /api/items/ HTTP/1.1" 405 40
+WARNING 2024-09-25 11:36:31,712 Thread-3 (process_request_thread) 19584 basehttp basehttp.py 212 django.server log_message 13624 "GET /api/items/ HTTP/1.1" 405 40
+WARNING 2024-09-25 11:36:31,762 Thread-3 (process_request_thread) 19584 basehttp basehttp.py 212 django.server log_message 13624 "GET /api/items/ HTTP/1.1" 405 40
+WARNING 2024-09-25 11:36:36,713 Thread-3 (process_request_thread) 19584 basehttp basehttp.py 212 django.server log_message 13624 "GET /api/items/ HTTP/1.1" 405 40
+WARNING 2024-09-25 11:36:36,765 Thread-3 (process_request_thread) 19584 basehttp basehttp.py 212 django.server log_message 13624 "GET /api/items/ HTTP/1.1" 405 40
+WARNING 2024-09-25 11:36:37,669 Thread-3 (process_request_thread) 19584 basehttp basehttp.py 212 django.server log_message 13624 "GET /api/items/ HTTP/1.1" 405 40
+WARNING 2024-09-25 11:36:37,717 Thread-3 (process_request_thread) 19584 basehttp basehttp.py 212 django.server log_message 13624 "GET /api/items/ HTTP/1.1" 405 40
+WARNING 2024-09-25 11:36:50,454 Thread-3 (process_request_thread) 19584 basehttp basehttp.py 212 django.server log_message 13624 "GET /api/items/ HTTP/1.1" 405 40
+WARNING 2024-09-25 11:36:50,504 Thread-3 (process_request_thread) 19584 basehttp basehttp.py 212 django.server log_message 13624 "GET /api/items/ HTTP/1.1" 405 40
+WARNING 2024-09-25 11:36:52,425 Thread-3 (process_request_thread) 19584 basehttp basehttp.py 212 django.server log_message 13624 "GET /api/items/ HTTP/1.1" 405 40
+WARNING 2024-09-25 11:36:52,485 Thread-3 (process_request_thread) 19584 basehttp basehttp.py 212 django.server log_message 13624 "GET /api/items/ HTTP/1.1" 405 40
+WARNING 2024-09-25 11:36:55,340 Thread-3 (process_request_thread) 19584 basehttp basehttp.py 212 django.server log_message 13624 "GET /api/items/ HTTP/1.1" 405 40
+WARNING 2024-09-25 11:36:55,427 Thread-3 (process_request_thread) 19584 basehttp basehttp.py 212 django.server log_message 13624 "GET /api/items/ HTTP/1.1" 405 40
+INFO 2024-09-25 11:43:56,982 MainThread 18252 autoreload autoreload.py 266 django.utils.autoreload trigger_reload 13624 C:\Users\akhil\OneDrive\Desktop\Todolist\backend\todo\views.py changed, reloading.
+INFO 2024-09-25 11:43:57,908 MainThread 37488 autoreload autoreload.py 668 django.utils.autoreload run_with_reloader 22800 Watching for file changes with StatReloader
+INFO 2024-09-25 11:43:59,681 MainThread 37488 autoreload autoreload.py 266 django.utils.autoreload trigger_reload 22800 C:\Users\akhil\OneDrive\Desktop\Todolist\backend\todo\views.py changed, reloading.
+INFO 2024-09-25 11:44:00,580 MainThread 36708 autoreload autoreload.py 668 django.utils.autoreload run_with_reloader 25152 Watching for file changes with StatReloader
+INFO 2024-09-25 11:44:25,523 MainThread 36708 autoreload autoreload.py 266 django.utils.autoreload trigger_reload 25152 C:\Users\akhil\OneDrive\Desktop\Todolist\backend\todo\urls.py changed, reloading.
+INFO 2024-09-25 11:44:26,380 MainThread 10372 autoreload autoreload.py 668 django.utils.autoreload run_with_reloader 23096 Watching for file changes with StatReloader
+INFO 2024-09-25 11:44:38,573 MainThread 10372 autoreload autoreload.py 266 django.utils.autoreload trigger_reload 23096 C:\Users\akhil\OneDrive\Desktop\Todolist\backend\todo\urls.py changed, reloading.
+INFO 2024-09-25 11:44:39,319 MainThread 23880 autoreload autoreload.py 668 django.utils.autoreload run_with_reloader 23168 Watching for file changes with StatReloader
+INFO 2024-09-25 11:44:43,080 MainThread 23880 autoreload autoreload.py 266 django.utils.autoreload trigger_reload 23168 C:\Users\akhil\OneDrive\Desktop\Todolist\backend\todo\urls.py changed, reloading.
+INFO 2024-09-25 11:44:43,813 MainThread 19696 autoreload autoreload.py 668 django.utils.autoreload run_with_reloader 37296 Watching for file changes with StatReloader
+INFO 2024-09-25 11:44:45,341 MainThread 19696 autoreload autoreload.py 266 django.utils.autoreload trigger_reload 37296 C:\Users\akhil\OneDrive\Desktop\Todolist\backend\todo\urls.py changed, reloading.
+INFO 2024-09-25 11:44:46,072 MainThread 35700 autoreload autoreload.py 668 django.utils.autoreload run_with_reloader 11552 Watching for file changes with StatReloader
+INFO 2024-09-25 11:44:47,477 MainThread 35700 autoreload autoreload.py 266 django.utils.autoreload trigger_reload 11552 C:\Users\akhil\OneDrive\Desktop\Todolist\backend\todo\urls.py changed, reloading.
+INFO 2024-09-25 11:44:48,160 MainThread 14624 autoreload autoreload.py 668 django.utils.autoreload run_with_reloader 35728 Watching for file changes with StatReloader
+INFO 2024-09-25 11:44:49,596 MainThread 14624 autoreload autoreload.py 266 django.utils.autoreload trigger_reload 35728 C:\Users\akhil\OneDrive\Desktop\Todolist\backend\todo\urls.py changed, reloading.
+INFO 2024-09-25 11:44:50,233 MainThread 18724 autoreload autoreload.py 668 django.utils.autoreload run_with_reloader 36440 Watching for file changes with StatReloader
+INFO 2024-09-25 11:44:53,813 MainThread 18724 autoreload autoreload.py 266 django.utils.autoreload trigger_reload 36440 C:\Users\akhil\OneDrive\Desktop\Todolist\backend\todo\urls.py changed, reloading.
+INFO 2024-09-25 11:44:54,527 MainThread 17256 autoreload autoreload.py 668 django.utils.autoreload run_with_reloader 21240 Watching for file changes with StatReloader
+INFO 2024-09-25 11:44:57,020 MainThread 17256 autoreload autoreload.py 266 django.utils.autoreload trigger_reload 21240 C:\Users\akhil\OneDrive\Desktop\Todolist\backend\todo\urls.py changed, reloading.
+INFO 2024-09-25 11:44:57,667 MainThread 38728 autoreload autoreload.py 668 django.utils.autoreload run_with_reloader 29564 Watching for file changes with StatReloader
+INFO 2024-09-25 11:44:59,143 MainThread 38728 autoreload autoreload.py 266 django.utils.autoreload trigger_reload 29564 C:\Users\akhil\OneDrive\Desktop\Todolist\backend\todo\urls.py changed, reloading.
+INFO 2024-09-25 11:44:59,881 MainThread 11772 autoreload autoreload.py 668 django.utils.autoreload run_with_reloader 7632 Watching for file changes with StatReloader
+INFO 2024-09-25 11:45:06,654 MainThread 11772 autoreload autoreload.py 266 django.utils.autoreload trigger_reload 7632 C:\Users\akhil\OneDrive\Desktop\Todolist\backend\todo\urls.py changed, reloading.
+INFO 2024-09-25 11:45:07,260 MainThread 20168 autoreload autoreload.py 668 django.utils.autoreload run_with_reloader 29504 Watching for file changes with StatReloader
+INFO 2024-09-25 11:45:10,834 MainThread 20168 autoreload autoreload.py 266 django.utils.autoreload trigger_reload 29504 C:\Users\akhil\OneDrive\Desktop\Todolist\backend\todo\urls.py changed, reloading.
+INFO 2024-09-25 11:45:11,577 MainThread 11276 autoreload autoreload.py 668 django.utils.autoreload run_with_reloader 36320 Watching for file changes with StatReloader
+INFO 2024-09-25 11:45:14,121 MainThread 11276 autoreload autoreload.py 266 django.utils.autoreload trigger_reload 36320 C:\Users\akhil\OneDrive\Desktop\Todolist\backend\todo\urls.py changed, reloading.
+INFO 2024-09-25 11:45:14,762 MainThread 4164 autoreload autoreload.py 668 django.utils.autoreload run_with_reloader 25892 Watching for file changes with StatReloader
+INFO 2024-09-25 11:45:17,318 MainThread 4164 autoreload autoreload.py 266 django.utils.autoreload trigger_reload 25892 C:\Users\akhil\OneDrive\Desktop\Todolist\backend\todo\urls.py changed, reloading.
+INFO 2024-09-25 11:45:17,931 MainThread 17772 autoreload autoreload.py 668 django.utils.autoreload run_with_reloader 13712 Watching for file changes with StatReloader
+INFO 2024-09-25 11:45:20,396 MainThread 17772 autoreload autoreload.py 266 django.utils.autoreload trigger_reload 13712 C:\Users\akhil\OneDrive\Desktop\Todolist\backend\todo\urls.py changed, reloading.
+INFO 2024-09-25 11:45:21,164 MainThread 17684 autoreload autoreload.py 668 django.utils.autoreload run_with_reloader 34172 Watching for file changes with StatReloader
+INFO 2024-09-25 11:45:23,662 MainThread 17684 autoreload autoreload.py 266 django.utils.autoreload trigger_reload 34172 C:\Users\akhil\OneDrive\Desktop\Todolist\backend\todo\urls.py changed, reloading.
+INFO 2024-09-25 11:45:24,387 MainThread 10012 autoreload autoreload.py 668 django.utils.autoreload run_with_reloader 33132 Watching for file changes with StatReloader
+INFO 2024-09-25 11:45:25,862 MainThread 10012 autoreload autoreload.py 266 django.utils.autoreload trigger_reload 33132 C:\Users\akhil\OneDrive\Desktop\Todolist\backend\todo\urls.py changed, reloading.
+INFO 2024-09-25 11:45:26,580 MainThread 692 autoreload autoreload.py 668 django.utils.autoreload run_with_reloader 34900 Watching for file changes with StatReloader
+INFO 2024-09-25 11:45:37,396 Thread-1 (process_request_thread) 36788 basehttp basehttp.py 212 django.server log_message 34900 "OPTIONS /api/items/get HTTP/1.1" 200 0
+WARNING 2024-09-25 11:45:37,437 Thread-1 (process_request_thread) 36788 basehttp basehttp.py 212 django.server log_message 34900 "GET /api/items/get HTTP/1.1" 401 183
+WARNING 2024-09-25 11:45:37,447 Thread-1 (process_request_thread) 36788 basehttp basehttp.py 212 django.server log_message 34900 "POST /api/token/refresh/ HTTP/1.1" 401 65
+INFO 2024-09-25 11:46:13,681 Thread-1 (process_request_thread) 36788 basehttp basehttp.py 212 django.server log_message 34900 "POST /api/token/ HTTP/1.1" 200 483
+INFO 2024-09-25 11:46:13,778 Thread-1 (process_request_thread) 36788 basehttp basehttp.py 212 django.server log_message 34900 "GET /api/items/get HTTP/1.1" 200 143
+INFO 2024-09-25 11:52:28,395 Thread-2 (process_request_thread) 38336 basehttp basehttp.py 212 django.server log_message 34900 "OPTIONS /api/items/3/ HTTP/1.1" 200 0
+WARNING 2024-09-25 11:52:28,404 Thread-2 (process_request_thread) 38336 basehttp basehttp.py 212 django.server log_message 34900 "DELETE /api/items/3/ HTTP/1.1" 401 183
+WARNING 2024-09-25 11:52:32,978 Thread-2 (process_request_thread) 38336 basehttp basehttp.py 212 django.server log_message 34900 "GET /api/items/get HTTP/1.1" 401 183
+WARNING 2024-09-25 11:52:32,987 Thread-2 (process_request_thread) 38336 basehttp basehttp.py 212 django.server log_message 34900 "GET /api/items/get HTTP/1.1" 401 183
+WARNING 2024-09-25 11:52:33,067 Thread-2 (process_request_thread) 38336 basehttp basehttp.py 212 django.server log_message 34900 "POST /api/token/refresh/ HTTP/1.1" 401 65
+WARNING 2024-09-25 11:52:33,072 Thread-2 (process_request_thread) 38336 basehttp basehttp.py 212 django.server log_message 34900 "POST /api/token/refresh/ HTTP/1.1" 401 65
+INFO 2024-09-25 11:52:46,305 Thread-2 (process_request_thread) 38336 basehttp basehttp.py 212 django.server log_message 34900 "POST /api/token/ HTTP/1.1" 200 483
+INFO 2024-09-25 11:52:46,395 Thread-2 (process_request_thread) 38336 basehttp basehttp.py 212 django.server log_message 34900 "GET /api/items/get HTTP/1.1" 200 143
+INFO 2024-09-25 11:52:54,732 Thread-2 (process_request_thread) 38336 views views.py 63 inventory get_object 34900 Cache miss for item 3
+INFO 2024-09-25 11:52:54,762 Thread-2 (process_request_thread) 38336 views views.py 95 inventory destroy 34900 Item 3 deleted and removed from cache
+INFO 2024-09-25 11:52:54,762 Thread-2 (process_request_thread) 38336 basehttp basehttp.py 212 django.server log_message 34900 "DELETE /api/items/3/ HTTP/1.1" 204 0
+INFO 2024-09-25 11:52:54,841 Thread-2 (process_request_thread) 38336 basehttp basehttp.py 212 django.server log_message 34900 "GET /api/items/get HTTP/1.1" 200 76
+INFO 2024-09-25 11:53:47,574 Thread-2 (process_request_thread) 38336 basehttp basehttp.py 212 django.server log_message 34900 "OPTIONS /api/items/ HTTP/1.1" 200 0
+INFO 2024-09-25 11:53:47,664 Thread-2 (process_request_thread) 38336 basehttp basehttp.py 212 django.server log_message 34900 "POST /api/items/ HTTP/1.1" 201 55
+INFO 2024-09-25 11:53:47,728 Thread-2 (process_request_thread) 38336 basehttp basehttp.py 212 django.server log_message 34900 "GET /api/items/get HTTP/1.1" 200 132
+INFO 2024-09-25 11:54:16,330 Thread-2 (process_request_thread) 38336 basehttp basehttp.py 212 django.server log_message 34900 "GET /api/items/get HTTP/1.1" 200 132
+INFO 2024-09-25 11:54:16,398 Thread-2 (process_request_thread) 38336 basehttp basehttp.py 212 django.server log_message 34900 "GET /api/items/get HTTP/1.1" 200 132
+WARNING 2024-09-25 11:55:44,917 Thread-2 (process_request_thread) 38336 basehttp basehttp.py 212 django.server log_message 34900 "GET /api/items/get HTTP/1.1" 401 183
+WARNING 2024-09-25 11:55:44,924 Thread-2 (process_request_thread) 38336 basehttp basehttp.py 212 django.server log_message 34900 "GET /api/items/get HTTP/1.1" 401 183
+WARNING 2024-09-25 11:55:44,934 Thread-2 (process_request_thread) 38336 basehttp basehttp.py 212 django.server log_message 34900 "POST /api/token/refresh/ HTTP/1.1" 401 65
+WARNING 2024-09-25 11:55:44,948 Thread-2 (process_request_thread) 38336 basehttp basehttp.py 212 django.server log_message 34900 "POST /api/token/refresh/ HTTP/1.1" 401 65
+INFO 2024-09-25 11:55:55,063 Thread-2 (process_request_thread) 38336 basehttp basehttp.py 212 django.server log_message 34900 "POST /api/token/ HTTP/1.1" 200 483
+INFO 2024-09-25 11:55:55,135 Thread-2 (process_request_thread) 38336 basehttp basehttp.py 212 django.server log_message 34900 "GET /api/items/get HTTP/1.1" 200 132
+WARNING 2024-09-25 11:58:23,703 Thread-2 (process_request_thread) 38336 basehttp basehttp.py 212 django.server log_message 34900 "GET /api/items/get HTTP/1.1" 401 183
+WARNING 2024-09-25 11:58:23,707 Thread-2 (process_request_thread) 38336 basehttp basehttp.py 212 django.server log_message 34900 "GET /api/items/get HTTP/1.1" 401 183
+WARNING 2024-09-25 11:58:23,727 Thread-2 (process_request_thread) 38336 basehttp basehttp.py 212 django.server log_message 34900 "POST /api/token/refresh/ HTTP/1.1" 401 65
+WARNING 2024-09-25 11:58:23,731 Thread-2 (process_request_thread) 38336 basehttp basehttp.py 212 django.server log_message 34900 "POST /api/token/refresh/ HTTP/1.1" 401 65
+INFO 2024-09-25 11:58:32,075 Thread-2 (process_request_thread) 38336 basehttp basehttp.py 212 django.server log_message 34900 "POST /api/token/ HTTP/1.1" 200 483
+INFO 2024-09-25 11:58:32,160 Thread-2 (process_request_thread) 38336 basehttp basehttp.py 212 django.server log_message 34900 "GET /api/items/get HTTP/1.1" 200 132
+INFO 2024-09-25 11:59:53,630 Thread-2 (process_request_thread) 38336 basehttp basehttp.py 212 django.server log_message 34900 "GET /api/items/get HTTP/1.1" 200 132
+INFO 2024-09-25 11:59:53,710 Thread-2 (process_request_thread) 38336 basehttp basehttp.py 212 django.server log_message 34900 "GET /api/items/get HTTP/1.1" 200 132
+WARNING 2024-09-25 12:00:46,207 Thread-2 (process_request_thread) 38336 basehttp basehttp.py 212 django.server log_message 34900 "GET /api/items/get HTTP/1.1" 401 183
+WARNING 2024-09-25 12:00:46,215 Thread-2 (process_request_thread) 38336 basehttp basehttp.py 212 django.server log_message 34900 "GET /api/items/get HTTP/1.1" 401 183
+WARNING 2024-09-25 12:00:46,238 Thread-2 (process_request_thread) 38336 basehttp basehttp.py 212 django.server log_message 34900 "POST /api/token/refresh/ HTTP/1.1" 401 65
+WARNING 2024-09-25 12:00:46,243 Thread-2 (process_request_thread) 38336 basehttp basehttp.py 212 django.server log_message 34900 "POST /api/token/refresh/ HTTP/1.1" 401 65
+INFO 2024-09-25 12:00:54,693 Thread-2 (process_request_thread) 38336 basehttp basehttp.py 212 django.server log_message 34900 "POST /api/token/ HTTP/1.1" 200 483
+INFO 2024-09-25 12:00:54,766 Thread-2 (process_request_thread) 38336 basehttp basehttp.py 212 django.server log_message 34900 "GET /api/items/get HTTP/1.1" 200 132
+WARNING 2024-09-25 12:03:07,972 Thread-2 (process_request_thread) 38336 basehttp basehttp.py 212 django.server log_message 34900 "GET /api/items/get HTTP/1.1" 401 183
+WARNING 2024-09-25 12:03:07,979 Thread-2 (process_request_thread) 38336 basehttp basehttp.py 212 django.server log_message 34900 "GET /api/items/get HTTP/1.1" 401 183
+WARNING 2024-09-25 12:03:07,994 Thread-2 (process_request_thread) 38336 basehttp basehttp.py 212 django.server log_message 34900 "POST /api/token/refresh/ HTTP/1.1" 401 65
+WARNING 2024-09-25 12:03:08,002 Thread-2 (process_request_thread) 38336 basehttp basehttp.py 212 django.server log_message 34900 "POST /api/token/refresh/ HTTP/1.1" 401 65
+INFO 2024-09-25 12:03:18,017 Thread-2 (process_request_thread) 38336 basehttp basehttp.py 212 django.server log_message 34900 "POST /api/token/ HTTP/1.1" 200 483
+INFO 2024-09-25 12:03:18,089 Thread-2 (process_request_thread) 38336 basehttp basehttp.py 212 django.server log_message 34900 "GET /api/items/get HTTP/1.1" 200 132
+WARNING 2024-09-25 12:05:26,835 Thread-2 (process_request_thread) 38336 basehttp basehttp.py 212 django.server log_message 34900 "GET /api/items/get HTTP/1.1" 401 183
+WARNING 2024-09-25 12:05:26,839 Thread-2 (process_request_thread) 38336 basehttp basehttp.py 212 django.server log_message 34900 "GET /api/items/get HTTP/1.1" 401 183
+WARNING 2024-09-25 12:05:26,851 Thread-2 (process_request_thread) 38336 basehttp basehttp.py 212 django.server log_message 34900 "POST /api/token/refresh/ HTTP/1.1" 401 65
+WARNING 2024-09-25 12:05:26,860 Thread-2 (process_request_thread) 38336 basehttp basehttp.py 212 django.server log_message 34900 "POST /api/token/refresh/ HTTP/1.1" 401 65
+INFO 2024-09-25 12:05:37,920 Thread-2 (process_request_thread) 38336 basehttp basehttp.py 212 django.server log_message 34900 "POST /api/token/ HTTP/1.1" 200 483
+INFO 2024-09-25 12:05:37,995 Thread-2 (process_request_thread) 38336 basehttp basehttp.py 212 django.server log_message 34900 "GET /api/items/get HTTP/1.1" 200 132
+INFO 2024-09-25 12:05:59,481 Thread-2 (process_request_thread) 38336 basehttp basehttp.py 212 django.server log_message 34900 "GET /api/items/get HTTP/1.1" 200 132
+INFO 2024-09-25 12:05:59,540 Thread-2 (process_request_thread) 38336 basehttp basehttp.py 212 django.server log_message 34900 "GET /api/items/get HTTP/1.1" 200 132
+INFO 2024-09-25 12:06:26,557 Thread-2 (process_request_thread) 38336 basehttp basehttp.py 212 django.server log_message 34900 "POST /api/items/ HTTP/1.1" 201 61
+INFO 2024-09-25 12:06:26,612 Thread-2 (process_request_thread) 38336 basehttp basehttp.py 212 django.server log_message 34900 "GET /api/items/get HTTP/1.1" 200 194
+INFO 2024-09-25 12:06:43,539 Thread-2 (process_request_thread) 38336 basehttp basehttp.py 212 django.server log_message 34900 "OPTIONS /api/items/5/ HTTP/1.1" 200 0
+INFO 2024-09-25 12:06:43,615 Thread-2 (process_request_thread) 38336 views views.py 63 inventory get_object 34900 Cache miss for item 5
+INFO 2024-09-25 12:06:43,643 Thread-2 (process_request_thread) 38336 views views.py 95 inventory destroy 34900 Item 5 deleted and removed from cache
+INFO 2024-09-25 12:06:43,647 Thread-2 (process_request_thread) 38336 basehttp basehttp.py 212 django.server log_message 34900 "DELETE /api/items/5/ HTTP/1.1" 204 0
+INFO 2024-09-25 12:06:43,710 Thread-2 (process_request_thread) 38336 basehttp basehttp.py 212 django.server log_message 34900 "GET /api/items/get HTTP/1.1" 200 132
+WARNING 2024-09-25 12:14:21,008 Thread-3 (process_request_thread) 5208 basehttp basehttp.py 212 django.server log_message 34900 "GET /api/items/get HTTP/1.1" 401 183
+WARNING 2024-09-25 12:14:21,008 Thread-3 (process_request_thread) 5208 basehttp basehttp.py 212 django.server log_message 34900 "GET /api/items/get HTTP/1.1" 401 183
+WARNING 2024-09-25 12:14:21,028 Thread-3 (process_request_thread) 5208 basehttp basehttp.py 212 django.server log_message 34900 "POST /api/token/refresh/ HTTP/1.1" 401 65
+WARNING 2024-09-25 12:14:21,031 Thread-3 (process_request_thread) 5208 basehttp basehttp.py 212 django.server log_message 34900 "POST /api/token/refresh/ HTTP/1.1" 401 65
+INFO 2024-09-25 12:14:29,497 Thread-3 (process_request_thread) 5208 basehttp basehttp.py 212 django.server log_message 34900 "POST /api/token/ HTTP/1.1" 200 483
+INFO 2024-09-25 12:14:29,583 Thread-3 (process_request_thread) 5208 basehttp basehttp.py 212 django.server log_message 34900 "GET /api/items/get HTTP/1.1" 200 132
+INFO 2024-09-25 12:14:55,137 Thread-3 (process_request_thread) 5208 basehttp basehttp.py 212 django.server log_message 34900 "OPTIONS /api/items/1/ HTTP/1.1" 200 0
+INFO 2024-09-25 12:14:55,208 Thread-3 (process_request_thread) 5208 views views.py 58 inventory get_object 34900 Cache hit for item 1
+INFO 2024-09-25 12:14:55,245 Thread-3 (process_request_thread) 5208 views views.py 78 inventory update 34900 Item 1 updated and cache invalidated
+INFO 2024-09-25 12:14:55,245 Thread-3 (process_request_thread) 5208 basehttp basehttp.py 212 django.server log_message 34900 "PUT /api/items/1/ HTTP/1.1" 200 73
+INFO 2024-09-25 12:14:55,313 Thread-3 (process_request_thread) 5208 basehttp basehttp.py 212 django.server log_message 34900 "GET /api/items/get HTTP/1.1" 200 131
+INFO 2024-09-25 12:15:27,648 Thread-3 (process_request_thread) 5208 basehttp basehttp.py 212 django.server log_message 34900 "GET /api/items/get HTTP/1.1" 200 131
+INFO 2024-09-25 12:15:27,730 Thread-3 (process_request_thread) 5208 basehttp basehttp.py 212 django.server log_message 34900 "GET /api/items/get HTTP/1.1" 200 131
+WARNING 2024-09-25 12:16:36,989 Thread-3 (process_request_thread) 5208 basehttp basehttp.py 212 django.server log_message 34900 "POST /api/items/ HTTP/1.1" 401 183
+WARNING 2024-09-25 12:16:39,923 Thread-3 (process_request_thread) 5208 basehttp basehttp.py 212 django.server log_message 34900 "GET /api/items/get HTTP/1.1" 401 183
+WARNING 2024-09-25 12:16:39,929 Thread-3 (process_request_thread) 5208 basehttp basehttp.py 212 django.server log_message 34900 "GET /api/items/get HTTP/1.1" 401 183
+WARNING 2024-09-25 12:16:40,034 Thread-3 (process_request_thread) 5208 basehttp basehttp.py 212 django.server log_message 34900 "POST /api/token/refresh/ HTTP/1.1" 401 65
+WARNING 2024-09-25 12:16:40,053 Thread-4 (process_request_thread) 20628 basehttp basehttp.py 212 django.server log_message 34900 "POST /api/token/refresh/ HTTP/1.1" 401 65
+INFO 2024-09-25 12:16:48,631 Thread-4 (process_request_thread) 20628 basehttp basehttp.py 212 django.server log_message 34900 "POST /api/token/ HTTP/1.1" 200 483
+INFO 2024-09-25 12:16:48,731 Thread-4 (process_request_thread) 20628 basehttp basehttp.py 212 django.server log_message 34900 "GET /api/items/get HTTP/1.1" 200 131
+WARNING 2024-09-25 12:17:01,571 Thread-4 (process_request_thread) 20628 basehttp basehttp.py 212 django.server log_message 34900 "POST /api/items/ HTTP/1.1" 400 48
+INFO 2024-09-25 12:18:35,023 MainThread 692 autoreload autoreload.py 266 django.utils.autoreload trigger_reload 34900 C:\Users\akhil\OneDrive\Desktop\Todolist\backend\todo\views.py changed, reloading.
+INFO 2024-09-25 12:18:35,898 MainThread 5020 autoreload autoreload.py 668 django.utils.autoreload run_with_reloader 19168 Watching for file changes with StatReloader
+INFO 2024-09-25 12:18:40,134 Thread-1 (process_request_thread) 31124 basehttp basehttp.py 212 django.server log_message 19168 "GET /api/items/get HTTP/1.1" 200 131
+INFO 2024-09-25 12:18:40,216 Thread-1 (process_request_thread) 31124 basehttp basehttp.py 212 django.server log_message 19168 "GET /api/items/get HTTP/1.1" 200 131
+WARNING 2024-09-25 12:18:49,477 Thread-1 (process_request_thread) 31124 basehttp basehttp.py 212 django.server log_message 19168 "POST /api/items/ HTTP/1.1" 401 183
+WARNING 2024-09-25 12:18:51,247 Thread-1 (process_request_thread) 31124 basehttp basehttp.py 212 django.server log_message 19168 "GET /api/items/get HTTP/1.1" 401 183
+WARNING 2024-09-25 12:18:51,250 Thread-1 (process_request_thread) 31124 basehttp basehttp.py 212 django.server log_message 19168 "GET /api/items/get HTTP/1.1" 401 183
+WARNING 2024-09-25 12:18:51,345 Thread-1 (process_request_thread) 31124 basehttp basehttp.py 212 django.server log_message 19168 "POST /api/token/refresh/ HTTP/1.1" 401 65
+WARNING 2024-09-25 12:18:51,353 Thread-2 (process_request_thread) 19468 basehttp basehttp.py 212 django.server log_message 19168 "POST /api/token/refresh/ HTTP/1.1" 401 65
+INFO 2024-09-25 12:19:01,587 Thread-2 (process_request_thread) 19468 basehttp basehttp.py 212 django.server log_message 19168 "POST /api/token/ HTTP/1.1" 200 483
+INFO 2024-09-25 12:19:01,688 Thread-2 (process_request_thread) 19468 basehttp basehttp.py 212 django.server log_message 19168 "GET /api/items/get HTTP/1.1" 200 131
+WARNING 2024-09-25 12:19:14,604 Thread-2 (process_request_thread) 19468 basehttp basehttp.py 212 django.server log_message 19168 "POST /api/items/ HTTP/1.1" 400 48
+INFO 2024-09-25 12:19:52,826 MainThread 5020 autoreload autoreload.py 266 django.utils.autoreload trigger_reload 19168 C:\Users\akhil\OneDrive\Desktop\Todolist\backend\todo\views.py changed, reloading.
+INFO 2024-09-25 12:19:53,599 MainThread 14632 autoreload autoreload.py 668 django.utils.autoreload run_with_reloader 528 Watching for file changes with StatReloader
+INFO 2024-09-25 12:21:54,492 MainThread 14632 autoreload autoreload.py 266 django.utils.autoreload trigger_reload 528 C:\Users\akhil\OneDrive\Desktop\Todolist\backend\todo\views.py changed, reloading.
+INFO 2024-09-25 12:21:55,427 MainThread 18320 autoreload autoreload.py 668 django.utils.autoreload run_with_reloader 33400 Watching for file changes with StatReloader
+INFO 2024-09-25 12:23:22,839 MainThread 18320 autoreload autoreload.py 266 django.utils.autoreload trigger_reload 33400 C:\Users\akhil\OneDrive\Desktop\Todolist\backend\backend\settings.py changed, reloading.
+INFO 2024-09-25 12:23:23,641 MainThread 3236 autoreload autoreload.py 668 django.utils.autoreload run_with_reloader 36496 Watching for file changes with StatReloader
+WARNING 2024-09-25 12:30:01,334 Thread-1 (process_request_thread) 18668 basehttp basehttp.py 212 django.server log_message 36496 "GET /api/items/get HTTP/1.1" 401 183
+WARNING 2024-09-25 12:30:01,339 Thread-1 (process_request_thread) 18668 basehttp basehttp.py 212 django.server log_message 36496 "GET /api/items/get HTTP/1.1" 401 183
+WARNING 2024-09-25 12:30:01,345 Thread-1 (process_request_thread) 18668 basehttp basehttp.py 212 django.server log_message 36496 "POST /api/token/refresh/ HTTP/1.1" 401 65
+WARNING 2024-09-25 12:30:01,349 Thread-2 (process_request_thread) 15012 basehttp basehttp.py 212 django.server log_message 36496 "POST /api/token/refresh/ HTTP/1.1" 401 65
+INFO 2024-09-25 12:30:22,809 MainThread 3236 autoreload autoreload.py 266 django.utils.autoreload trigger_reload 36496 C:\Users\akhil\OneDrive\Desktop\Todolist\backend\todo\models.py changed, reloading.
+INFO 2024-09-25 12:30:23,562 MainThread 18572 autoreload autoreload.py 668 django.utils.autoreload run_with_reloader 2448 Watching for file changes with StatReloader
+INFO 2024-09-25 12:30:37,564 MainThread 18572 autoreload autoreload.py 266 django.utils.autoreload trigger_reload 2448 C:\Users\akhil\OneDrive\Desktop\Todolist\backend\todo\admin.py changed, reloading.
+INFO 2024-09-25 12:30:38,308 MainThread 31152 autoreload autoreload.py 668 django.utils.autoreload run_with_reloader 33328 Watching for file changes with StatReloader
+INFO 2024-09-25 12:30:46,180 MainThread 31152 autoreload autoreload.py 266 django.utils.autoreload trigger_reload 33328 C:\Users\akhil\OneDrive\Desktop\Todolist\backend\todo\serializers.py changed, reloading.
+INFO 2024-09-25 12:30:46,812 MainThread 25380 autoreload autoreload.py 668 django.utils.autoreload run_with_reloader 34196 Watching for file changes with StatReloader
+INFO 2024-09-25 12:30:58,874 MainThread 25380 autoreload autoreload.py 266 django.utils.autoreload trigger_reload 34196 C:\Users\akhil\OneDrive\Desktop\Todolist\backend\todo\views.py changed, reloading.
+INFO 2024-09-25 12:30:59,642 MainThread 38696 autoreload autoreload.py 668 django.utils.autoreload run_with_reloader 16240 Watching for file changes with StatReloader
+INFO 2024-09-25 12:31:03,430 MainThread 38696 autoreload autoreload.py 266 django.utils.autoreload trigger_reload 16240 C:\Users\akhil\OneDrive\Desktop\Todolist\backend\todo\views.py changed, reloading.
+INFO 2024-09-25 12:31:04,156 MainThread 31712 autoreload autoreload.py 668 django.utils.autoreload run_with_reloader 20600 Watching for file changes with StatReloader
+INFO 2024-09-25 12:31:12,174 MainThread 31712 autoreload autoreload.py 266 django.utils.autoreload trigger_reload 20600 C:\Users\akhil\OneDrive\Desktop\Todolist\backend\todo\urls.py changed, reloading.
+INFO 2024-09-25 12:31:12,856 MainThread 30012 autoreload autoreload.py 668 django.utils.autoreload run_with_reloader 17420 Watching for file changes with StatReloader
+INFO 2024-09-25 12:31:15,540 MainThread 30012 autoreload autoreload.py 266 django.utils.autoreload trigger_reload 17420 C:\Users\akhil\OneDrive\Desktop\Todolist\backend\todo\urls.py changed, reloading.
+INFO 2024-09-25 12:31:16,336 MainThread 19072 autoreload autoreload.py 668 django.utils.autoreload run_with_reloader 12152 Watching for file changes with StatReloader
+INFO 2024-09-25 12:31:19,053 MainThread 19072 autoreload autoreload.py 266 django.utils.autoreload trigger_reload 12152 C:\Users\akhil\OneDrive\Desktop\Todolist\backend\todo\urls.py changed, reloading.
+INFO 2024-09-25 12:31:19,746 MainThread 5064 autoreload autoreload.py 668 django.utils.autoreload run_with_reloader 37844 Watching for file changes with StatReloader
+INFO 2024-09-25 12:32:09,945 MainThread 38160 autoreload autoreload.py 668 django.utils.autoreload run_with_reloader 8608 Watching for file changes with StatReloader
+INFO 2024-09-25 12:40:04,927 Thread-1 (process_request_thread) 30656 basehttp basehttp.py 212 django.server log_message 8608 "POST /api/token/ HTTP/1.1" 200 483
+INFO 2024-09-25 12:40:05,019 Thread-1 (process_request_thread) 30656 basehttp basehttp.py 212 django.server log_message 8608 "GET /api/items/get HTTP/1.1" 200 131
+INFO 2024-09-25 12:42:10,353 MainThread 11780 autoreload autoreload.py 668 django.utils.autoreload run_with_reloader 16112 Watching for file changes with StatReloader
+INFO 2024-09-25 12:42:34,407 MainThread 11780 autoreload autoreload.py 266 django.utils.autoreload trigger_reload 16112 C:\Users\akhil\OneDrive\Desktop\Todolist\backend\todo\migrations\0003_item.py changed, reloading.
+INFO 2024-09-25 12:42:35,173 MainThread 17032 autoreload autoreload.py 668 django.utils.autoreload run_with_reloader 37480 Watching for file changes with StatReloader
+INFO 2024-09-25 12:42:41,208 MainThread 17032 autoreload autoreload.py 266 django.utils.autoreload trigger_reload 37480 C:\Users\akhil\OneDrive\Desktop\Todolist\backend\todo\migrations\0003_item.py changed, reloading.
+INFO 2024-09-25 12:42:41,898 MainThread 33536 autoreload autoreload.py 668 django.utils.autoreload run_with_reloader 16924 Watching for file changes with StatReloader
+INFO 2024-09-25 13:54:39,371 MainThread 30496 views views.py 58 inventory get_object 23052 Cache miss for item 4
+INFO 2024-09-25 13:54:39,386 MainThread 30496 views views.py 90 inventory destroy 23052 Item 4 deleted and removed from cache
+INFO 2024-09-25 13:54:40,483 MainThread 30496 views views.py 58 inventory get_object 23052 Cache miss for item 6
+INFO 2024-09-25 13:54:41,037 MainThread 30496 views views.py 58 inventory get_object 23052 Cache miss for item 7
+ERROR 2024-09-25 13:54:41,037 MainThread 30496 views views.py 76 inventory update 23052 Error updating item 7: {'name': [ErrorDetail(string='This field may not be blank.', code='blank')]}
+INFO 2024-09-25 13:54:41,527 MainThread 30496 views views.py 58 inventory get_object 23052 Cache miss for item 8
+INFO 2024-09-25 13:54:41,527 MainThread 30496 views views.py 73 inventory update 23052 Item 8 updated and cache invalidated
+INFO 2024-09-25 14:10:37,553 MainThread 37480 views views.py 58 inventory get_object 31668 Cache miss for item 4
+INFO 2024-09-25 14:10:37,554 MainThread 37480 views views.py 90 inventory destroy 31668 Item 4 deleted and removed from cache
+INFO 2024-09-25 14:10:37,560 MainThread 37480 views views.py 53 inventory get_object 31668 Cache hit for item 6
+INFO 2024-09-25 14:10:37,564 MainThread 37480 views views.py 53 inventory get_object 31668 Cache hit for item 7
+ERROR 2024-09-25 14:10:37,566 MainThread 37480 views views.py 76 inventory update 31668 Error updating item 7: {'name': [ErrorDetail(string='This field may not be blank.', code='blank')]}
+INFO 2024-09-25 14:10:37,571 MainThread 37480 views views.py 58 inventory get_object 31668 Cache miss for item 8
+INFO 2024-09-25 14:10:37,574 MainThread 37480 views views.py 73 inventory update 31668 Item 8 updated and cache invalidated
+INFO 2024-09-25 14:12:29,866 MainThread 4316 views views.py 58 inventory get_object 32796 Cache miss for item 3
+INFO 2024-09-25 14:12:29,867 MainThread 4316 views views.py 90 inventory destroy 32796 Item 3 deleted and removed from cache
+INFO 2024-09-25 14:12:29,873 MainThread 4316 views views.py 58 inventory get_object 32796 Cache miss for item 5
+INFO 2024-09-25 14:12:29,877 MainThread 4316 views views.py 53 inventory get_object 32796 Cache hit for item 6
+ERROR 2024-09-25 14:12:29,878 MainThread 4316 views views.py 76 inventory update 32796 Error updating item 6: {'name': [ErrorDetail(string='This field may not be blank.', code='blank')]}
+INFO 2024-09-25 14:12:29,880 MainThread 4316 views views.py 53 inventory get_object 32796 Cache hit for item 7
+INFO 2024-09-25 14:12:29,883 MainThread 4316 views views.py 73 inventory update 32796 Item 7 updated and cache invalidated
+INFO 2024-09-25 14:21:33,068 MainThread 23120 autoreload autoreload.py 668 django.utils.autoreload run_with_reloader 32552 Watching for file changes with StatReloader
+INFO 2024-09-25 14:23:38,150 Thread-2 (process_request_thread) 29864 basehttp basehttp.py 212 django.server log_message 32552 "OPTIONS /api/items/get HTTP/1.1" 200 0
+INFO 2024-09-25 14:23:38,150 Thread-1 (process_request_thread) 3000 basehttp basehttp.py 212 django.server log_message 32552 "OPTIONS /api/items/get HTTP/1.1" 200 0
+WARNING 2024-09-25 14:23:38,199 Thread-1 (process_request_thread) 3000 basehttp basehttp.py 212 django.server log_message 32552 "GET /api/items/get HTTP/1.1" 401 183
+WARNING 2024-09-25 14:23:38,201 Thread-1 (process_request_thread) 3000 basehttp basehttp.py 212 django.server log_message 32552 "GET /api/items/get HTTP/1.1" 401 183
+INFO 2024-09-25 14:23:38,244 Thread-1 (process_request_thread) 3000 basehttp basehttp.py 212 django.server log_message 32552 "OPTIONS /api/token/refresh/ HTTP/1.1" 200 0
+INFO 2024-09-25 14:23:38,245 Thread-2 (process_request_thread) 29864 basehttp basehttp.py 212 django.server log_message 32552 "OPTIONS /api/token/refresh/ HTTP/1.1" 200 0
+WARNING 2024-09-25 14:23:38,251 Thread-1 (process_request_thread) 3000 basehttp basehttp.py 212 django.server log_message 32552 "POST /api/token/refresh/ HTTP/1.1" 401 65
+WARNING 2024-09-25 14:23:38,252 Thread-2 (process_request_thread) 29864 basehttp basehttp.py 212 django.server log_message 32552 "POST /api/token/refresh/ HTTP/1.1" 401 65
+INFO 2024-09-25 14:23:49,705 Thread-2 (process_request_thread) 29864 basehttp basehttp.py 212 django.server log_message 32552 "OPTIONS /api/token/ HTTP/1.1" 200 0
+INFO 2024-09-25 14:23:50,522 Thread-2 (process_request_thread) 29864 basehttp basehttp.py 212 django.server log_message 32552 "POST /api/token/ HTTP/1.1" 200 483
+INFO 2024-09-25 14:23:50,590 Thread-2 (process_request_thread) 29864 basehttp basehttp.py 212 django.server log_message 32552 "GET /api/items/get HTTP/1.1" 200 131
+INFO 2024-09-25 14:24:17,763 Thread-2 (process_request_thread) 29864 basehttp basehttp.py 212 django.server log_message 32552 "OPTIONS /api/items/ HTTP/1.1" 200 0
+INFO 2024-09-25 14:24:17,858 Thread-2 (process_request_thread) 29864 basehttp basehttp.py 212 django.server log_message 32552 "POST /api/items/ HTTP/1.1" 201 66
+INFO 2024-09-25 14:24:17,928 Thread-2 (process_request_thread) 29864 basehttp basehttp.py 212 django.server log_message 32552 "GET /api/items/get HTTP/1.1" 200 198
+INFO 2024-09-25 14:24:50,022 Thread-2 (process_request_thread) 29864 basehttp basehttp.py 212 django.server log_message 32552 "OPTIONS /api/items/1/ HTTP/1.1" 200 0
+INFO 2024-09-25 14:24:50,135 Thread-2 (process_request_thread) 29864 views views.py 58 inventory get_object 32552 Cache miss for item 1
+INFO 2024-09-25 14:24:50,158 Thread-2 (process_request_thread) 29864 views views.py 90 inventory destroy 32552 Item 1 deleted and removed from cache
+INFO 2024-09-25 14:24:50,159 Thread-2 (process_request_thread) 29864 basehttp basehttp.py 212 django.server log_message 32552 "DELETE /api/items/1/ HTTP/1.1" 204 0
+INFO 2024-09-25 14:24:50,213 Thread-2 (process_request_thread) 29864 basehttp basehttp.py 212 django.server log_message 32552 "GET /api/items/get HTTP/1.1" 200 124
+INFO 2024-09-25 14:25:15,058 MainThread 20960 autoreload autoreload.py 668 django.utils.autoreload run_with_reloader 23904 Watching for file changes with StatReloader
+INFO 2024-09-25 14:25:24,982 Thread-1 (process_request_thread) 18040 basehttp basehttp.py 212 django.server log_message 23904 "GET /api/items/get HTTP/1.1" 200 124
+INFO 2024-09-25 14:25:25,040 Thread-1 (process_request_thread) 18040 basehttp basehttp.py 212 django.server log_message 23904 "GET /api/items/get HTTP/1.1" 200 124
+INFO 2024-09-25 14:26:14,184 MainThread 20960 autoreload autoreload.py 266 django.utils.autoreload trigger_reload 23904 C:\Users\akhil\OneDrive\Desktop\Todolist\backend\backend\settings.py changed, reloading.
+INFO 2024-09-25 14:26:14,876 MainThread 12644 autoreload autoreload.py 668 django.utils.autoreload run_with_reloader 24704 Watching for file changes with StatReloader
+INFO 2024-09-25 14:26:16,531 MainThread 12644 autoreload autoreload.py 266 django.utils.autoreload trigger_reload 24704 C:\Users\akhil\OneDrive\Desktop\Todolist\backend\backend\settings.py changed, reloading.
+INFO 2024-09-25 14:27:03,672 MainThread 35752 autoreload autoreload.py 668 django.utils.autoreload run_with_reloader 33428 Watching for file changes with StatReloader
+INFO 2024-09-25 14:28:22,049 MainThread 26484 autoreload autoreload.py 668 django.utils.autoreload run_with_reloader 29100 Watching for file changes with StatReloader
+WARNING 2024-09-25 14:28:37,561 Thread-1 (process_request_thread) 28576 basehttp basehttp.py 212 django.server log_message 29100 "GET /api/items/get HTTP/1.1" 401 183
+WARNING 2024-09-25 14:28:37,563 Thread-1 (process_request_thread) 28576 basehttp basehttp.py 212 django.server log_message 29100 "GET /api/items/get HTTP/1.1" 401 183
+WARNING 2024-09-25 14:28:37,573 Thread-1 (process_request_thread) 28576 basehttp basehttp.py 212 django.server log_message 29100 "POST /api/token/refresh/ HTTP/1.1" 401 65
+WARNING 2024-09-25 14:28:37,573 Thread-2 (process_request_thread) 5060 basehttp basehttp.py 212 django.server log_message 29100 "POST /api/token/refresh/ HTTP/1.1" 401 65
+INFO 2024-09-25 14:28:48,786 Thread-2 (process_request_thread) 5060 basehttp basehttp.py 212 django.server log_message 29100 "POST /api/token/ HTTP/1.1" 200 483
+INFO 2024-09-25 14:28:48,870 Thread-2 (process_request_thread) 5060 basehttp basehttp.py 212 django.server log_message 29100 "GET /api/items/get HTTP/1.1" 200 124
+INFO 2024-09-25 14:29:19,616 Thread-2 (process_request_thread) 5060 basehttp basehttp.py 212 django.server log_message 29100 "POST /api/items/ HTTP/1.1" 201 70
+INFO 2024-09-25 14:29:19,698 Thread-2 (process_request_thread) 5060 basehttp basehttp.py 212 django.server log_message 29100 "GET /api/items/get HTTP/1.1" 200 195
+INFO 2024-09-25 14:29:45,989 Thread-2 (process_request_thread) 5060 basehttp basehttp.py 212 django.server log_message 29100 "OPTIONS /api/items/4/ HTTP/1.1" 200 0
+INFO 2024-09-25 14:29:46,082 Thread-2 (process_request_thread) 5060 views views.py 58 inventory get_object 29100 Cache miss for item 4
+INFO 2024-09-25 14:29:46,106 Thread-2 (process_request_thread) 5060 views views.py 90 inventory destroy 29100 Item 4 deleted and removed from cache
+INFO 2024-09-25 14:29:46,106 Thread-2 (process_request_thread) 5060 basehttp basehttp.py 212 django.server log_message 29100 "DELETE /api/items/4/ HTTP/1.1" 204 0
+INFO 2024-09-25 14:29:46,156 Thread-2 (process_request_thread) 5060 basehttp basehttp.py 212 django.server log_message 29100 "GET /api/items/get HTTP/1.1" 200 139
+INFO 2024-09-25 14:30:10,838 Thread-2 (process_request_thread) 5060 basehttp basehttp.py 212 django.server log_message 29100 "OPTIONS /api/items/7/ HTTP/1.1" 200 0
+INFO 2024-09-25 14:30:10,933 Thread-2 (process_request_thread) 5060 views views.py 58 inventory get_object 29100 Cache miss for item 7
+INFO 2024-09-25 14:30:10,963 Thread-2 (process_request_thread) 5060 views views.py 73 inventory update 29100 Item 7 updated and cache invalidated
+INFO 2024-09-25 14:30:10,965 Thread-2 (process_request_thread) 5060 basehttp basehttp.py 212 django.server log_message 29100 "PUT /api/items/7/ HTTP/1.1" 200 70
+INFO 2024-09-25 14:30:11,031 Thread-2 (process_request_thread) 5060 basehttp basehttp.py 212 django.server log_message 29100 "GET /api/items/get HTTP/1.1" 200 139
+INFO 2024-09-25 14:30:25,071 Thread-3 (process_request_thread) 15380 basehttp basehttp.py 212 django.server log_message 29100 "GET /admin/ HTTP/1.1" 200 6535
+INFO 2024-09-25 14:30:29,600 Thread-3 (process_request_thread) 15380 basehttp basehttp.py 212 django.server log_message 29100 "GET /admin/todo/item/ HTTP/1.1" 200 8896
+INFO 2024-09-25 14:30:29,741 Thread-3 (process_request_thread) 15380 basehttp basehttp.py 212 django.server log_message 29100 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+WARNING 2024-09-25 14:30:43,955 Thread-3 (process_request_thread) 15380 basehttp basehttp.py 212 django.server log_message 29100 "GET /api/items/1/ HTTP/1.1" 404 15156
+WARNING 2024-09-25 14:30:45,339 Thread-3 (process_request_thread) 15380 basehttp basehttp.py 212 django.server log_message 29100 "GET /api/items/ HTTP/1.1" 405 12609
+INFO 2024-09-25 14:30:52,216 Thread-3 (process_request_thread) 15380 basehttp basehttp.py 212 django.server log_message 29100 "GET /api/items/8 HTTP/1.1" 301 0
+WARNING 2024-09-25 14:30:52,459 Thread-3 (process_request_thread) 15380 basehttp basehttp.py 212 django.server log_message 29100 "GET /api/items/8/ HTTP/1.1" 404 15156
+INFO 2024-09-25 14:30:57,322 Thread-3 (process_request_thread) 15380 basehttp basehttp.py 212 django.server log_message 29100 "GET /api/items/7 HTTP/1.1" 301 0
+INFO 2024-09-25 14:30:57,395 Thread-3 (process_request_thread) 15380 views views.py 58 inventory get_object 29100 Cache miss for item 7
+INFO 2024-09-25 14:30:57,412 Thread-3 (process_request_thread) 15380 basehttp basehttp.py 212 django.server log_message 29100 "GET /api/items/7/ HTTP/1.1" 200 15297
+INFO 2024-09-25 14:31:11,165 Thread-3 (process_request_thread) 15380 views views.py 53 inventory get_object 29100 Cache hit for item 7
+INFO 2024-09-25 14:31:11,243 Thread-3 (process_request_thread) 15380 views views.py 90 inventory destroy 29100 Item 7 deleted and removed from cache
+INFO 2024-09-25 14:31:11,256 Thread-3 (process_request_thread) 15380 basehttp basehttp.py 212 django.server log_message 29100 "DELETE /api/items/7/ HTTP/1.1" 200 15088
+WARNING 2024-09-25 14:31:14,464 Thread-2 (process_request_thread) 5060 basehttp basehttp.py 212 django.server log_message 29100 "GET /api/items/get HTTP/1.1" 401 183
+WARNING 2024-09-25 14:31:14,467 Thread-2 (process_request_thread) 5060 basehttp basehttp.py 212 django.server log_message 29100 "GET /api/items/get HTTP/1.1" 401 183
+WARNING 2024-09-25 14:31:14,488 Thread-2 (process_request_thread) 5060 basehttp basehttp.py 212 django.server log_message 29100 "POST /api/token/refresh/ HTTP/1.1" 401 65
+WARNING 2024-09-25 14:31:14,494 Thread-2 (process_request_thread) 5060 basehttp basehttp.py 212 django.server log_message 29100 "POST /api/token/refresh/ HTTP/1.1" 401 65
+INFO 2024-09-25 14:31:22,505 Thread-2 (process_request_thread) 5060 basehttp basehttp.py 212 django.server log_message 29100 "POST /api/token/ HTTP/1.1" 200 483
+INFO 2024-09-25 14:31:22,587 Thread-2 (process_request_thread) 5060 basehttp basehttp.py 212 django.server log_message 29100 "GET /api/items/get HTTP/1.1" 200 68
+INFO 2024-09-25 14:31:49,737 MainThread 35860 views views.py 58 inventory get_object 11036 Cache miss for item 3
+INFO 2024-09-25 14:31:49,739 MainThread 35860 views views.py 90 inventory destroy 11036 Item 3 deleted and removed from cache
+INFO 2024-09-25 14:31:49,756 MainThread 35860 views views.py 53 inventory get_object 11036 Cache hit for item 5
+INFO 2024-09-25 14:31:49,764 MainThread 35860 views views.py 53 inventory get_object 11036 Cache hit for item 6
+ERROR 2024-09-25 14:31:49,767 MainThread 35860 views views.py 76 inventory update 11036 Error updating item 6: {'name': [ErrorDetail(string='This field may not be blank.', code='blank')]}
+INFO 2024-09-25 14:31:49,779 MainThread 35860 views views.py 58 inventory get_object 11036 Cache miss for item 7
+INFO 2024-09-25 14:31:49,783 MainThread 35860 views views.py 73 inventory update 11036 Item 7 updated and cache invalidated
+INFO 2024-09-25 15:41:14,172 MainThread 1288 autoreload autoreload.py 668 django.utils.autoreload run_with_reloader 38140 Watching for file changes with StatReloader
+WARNING 2024-09-25 15:42:23,455 Thread-1 (process_request_thread) 29192 basehttp basehttp.py 212 django.server log_message 38140 "GET /api/items/get HTTP/1.1" 401 183
+WARNING 2024-09-25 15:42:23,457 Thread-1 (process_request_thread) 29192 basehttp basehttp.py 212 django.server log_message 38140 "GET /api/items/get HTTP/1.1" 401 183
+WARNING 2024-09-25 15:42:23,519 Thread-1 (process_request_thread) 29192 basehttp basehttp.py 212 django.server log_message 38140 "POST /api/token/refresh/ HTTP/1.1" 401 65
+WARNING 2024-09-25 15:42:23,539 Thread-1 (process_request_thread) 29192 basehttp basehttp.py 212 django.server log_message 38140 "POST /api/token/refresh/ HTTP/1.1" 401 65
+INFO 2024-09-25 15:43:06,881 Thread-1 (process_request_thread) 29192 basehttp basehttp.py 212 django.server log_message 38140 "POST /api/token/ HTTP/1.1" 200 483
+INFO 2024-09-25 15:43:06,992 Thread-1 (process_request_thread) 29192 basehttp basehttp.py 212 django.server log_message 38140 "GET /api/items/get HTTP/1.1" 200 68
+INFO 2024-09-25 15:43:28,548 Thread-1 (process_request_thread) 29192 basehttp basehttp.py 212 django.server log_message 38140 "POST /api/items/ HTTP/1.1" 201 69
+INFO 2024-09-25 15:43:28,615 Thread-1 (process_request_thread) 29192 basehttp basehttp.py 212 django.server log_message 38140 "GET /api/items/get HTTP/1.1" 200 138
+INFO 2024-09-25 15:43:36,612 Thread-1 (process_request_thread) 29192 basehttp basehttp.py 212 django.server log_message 38140 "OPTIONS /api/items/6/ HTTP/1.1" 200 0
+INFO 2024-09-25 15:43:36,734 Thread-1 (process_request_thread) 29192 views views.py 53 inventory get_object 38140 Cache hit for item 6
+INFO 2024-09-25 15:43:36,741 Thread-1 (process_request_thread) 29192 views views.py 90 inventory destroy 38140 Item 6 deleted and removed from cache
+INFO 2024-09-25 15:43:36,741 Thread-1 (process_request_thread) 29192 basehttp basehttp.py 212 django.server log_message 38140 "DELETE /api/items/6/ HTTP/1.1" 204 0
+INFO 2024-09-25 15:43:36,834 Thread-1 (process_request_thread) 29192 basehttp basehttp.py 212 django.server log_message 38140 "GET /api/items/get HTTP/1.1" 200 71
+INFO 2024-09-25 15:43:48,133 Thread-1 (process_request_thread) 29192 basehttp basehttp.py 212 django.server log_message 38140 "OPTIONS /api/items/8/ HTTP/1.1" 200 0
+INFO 2024-09-25 15:43:48,235 Thread-1 (process_request_thread) 29192 views views.py 58 inventory get_object 38140 Cache miss for item 8
+INFO 2024-09-25 15:43:48,241 Thread-1 (process_request_thread) 29192 views views.py 73 inventory update 38140 Item 8 updated and cache invalidated
+INFO 2024-09-25 15:43:48,243 Thread-1 (process_request_thread) 29192 basehttp basehttp.py 212 django.server log_message 38140 "PUT /api/items/8/ HTTP/1.1" 200 69
+INFO 2024-09-25 15:43:48,301 Thread-1 (process_request_thread) 29192 basehttp basehttp.py 212 django.server log_message 38140 "GET /api/items/get HTTP/1.1" 200 71
+INFO 2024-09-25 15:43:56,795 Thread-2 (process_request_thread) 29272 basehttp basehttp.py 212 django.server log_message 38140 "GET /admin/ HTTP/1.1" 200 6535
+INFO 2024-09-25 15:43:57,157 Thread-4 (process_request_thread) 37760 basehttp basehttp.py 212 django.server log_message 38140 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+INFO 2024-09-25 15:43:57,172 Thread-3 (process_request_thread) 23568 basehttp basehttp.py 212 django.server log_message 38140 "GET /static/admin/js/theme.js HTTP/1.1" 200 1943
+INFO 2024-09-25 15:43:59,532 Thread-2 (process_request_thread) 29272 basehttp basehttp.py 212 django.server log_message 38140 "GET /admin/todo/item/ HTTP/1.1" 200 8638
+INFO 2024-09-25 15:43:59,595 Thread-3 (process_request_thread) 23568 basehttp basehttp.py 212 django.server log_message 38140 "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+INFO 2024-09-25 15:43:59,597 Thread-4 (process_request_thread) 37760 basehttp basehttp.py 212 django.server log_message 38140 "GET /static/admin/js/core.js HTTP/1.1" 200 6208
+INFO 2024-09-25 15:43:59,614 Thread-7 (process_request_thread) 6052 basehttp basehttp.py 212 django.server log_message 38140 "GET /static/admin/js/actions.js HTTP/1.1" 200 8067
+INFO 2024-09-25 15:43:59,615 Thread-6 (process_request_thread) 36952 basehttp basehttp.py 212 django.server log_message 38140 "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 9042
+INFO 2024-09-25 15:43:59,621 Thread-9 (process_request_thread) 17816 basehttp basehttp.py 212 django.server log_message 38140 "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+INFO 2024-09-25 15:43:59,631 Thread-8 (process_request_thread) 38704 basehttp basehttp.py 212 django.server log_message 38140 "GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+INFO 2024-09-25 15:43:59,639 Thread-2 (process_request_thread) 29272 basehttp basehttp.py 212 django.server log_message 38140 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2024-09-25 15:43:59,643 Thread-7 (process_request_thread) 6052 basehttp basehttp.py 212 django.server log_message 38140 "GET /static/admin/js/filters.js HTTP/1.1" 200 978
+INFO 2024-09-25 15:43:59,648 Thread-3 (process_request_thread) 23568 basehttp basehttp.py 212 django.server log_message 38140 "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 285314
+INFO 2024-09-25 15:43:59,673 Thread-4 (process_request_thread) 37760 basehttp basehttp.py 212 django.server log_message 38140 "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 325171
+INFO 2024-09-25 15:44:00,367 Thread-4 (process_request_thread) 37760 basehttp basehttp.py 212 django.server log_message 38140 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+WARNING 2024-09-25 15:44:08,587 Thread-2 (process_request_thread) 29272 basehttp basehttp.py 212 django.server log_message 38140 "GET /api/items/1/ HTTP/1.1" 404 15156
+WARNING 2024-09-25 15:44:09,636 Thread-2 (process_request_thread) 29272 basehttp basehttp.py 212 django.server log_message 38140 "GET /api/items/ HTTP/1.1" 405 12609
+INFO 2024-09-25 15:44:26,387 Thread-2 (process_request_thread) 29272 basehttp basehttp.py 212 django.server log_message 38140 "POST /api/items/ HTTP/1.1" 201 12690
+INFO 2024-09-25 15:44:32,194 Thread-2 (process_request_thread) 29272 basehttp basehttp.py 212 django.server log_message 38140 "GET /api/items/9 HTTP/1.1" 301 0
+INFO 2024-09-25 15:44:32,263 Thread-2 (process_request_thread) 29272 views views.py 58 inventory get_object 38140 Cache miss for item 9
+INFO 2024-09-25 15:44:32,327 Thread-2 (process_request_thread) 29272 basehttp basehttp.py 212 django.server log_message 38140 "GET /api/items/9/ HTTP/1.1" 200 15282
+INFO 2024-09-25 15:44:40,145 Thread-2 (process_request_thread) 29272 views views.py 53 inventory get_object 38140 Cache hit for item 9
+INFO 2024-09-25 15:44:40,217 Thread-2 (process_request_thread) 29272 views views.py 90 inventory destroy 38140 Item 9 deleted and removed from cache
+INFO 2024-09-25 15:44:40,226 Thread-2 (process_request_thread) 29272 basehttp basehttp.py 212 django.server log_message 38140 "DELETE /api/items/9/ HTTP/1.1" 200 15088
+INFO 2024-09-25 15:45:25,374 MainThread 35788 views views.py 58 inventory get_object 32260 Cache miss for item 3
+INFO 2024-09-25 15:45:25,375 MainThread 35788 views views.py 90 inventory destroy 32260 Item 3 deleted and removed from cache
+INFO 2024-09-25 15:45:25,381 MainThread 35788 views views.py 53 inventory get_object 32260 Cache hit for item 5
+INFO 2024-09-25 15:45:25,384 MainThread 35788 views views.py 58 inventory get_object 32260 Cache miss for item 6
+ERROR 2024-09-25 15:45:25,384 MainThread 35788 views views.py 76 inventory update 32260 Error updating item 6: {'name': [ErrorDetail(string='This field may not be blank.', code='blank')]}
+INFO 2024-09-25 15:45:25,387 MainThread 35788 views views.py 58 inventory get_object 32260 Cache miss for item 7
+INFO 2024-09-25 15:45:25,389 MainThread 35788 views views.py 73 inventory update 32260 Item 7 updated and cache invalidated
+INFO 2024-09-25 15:49:59,613 MainThread 9472 views views.py 58 inventory get_object 32100 Cache miss for item 3
+INFO 2024-09-25 15:49:59,615 MainThread 9472 views views.py 90 inventory destroy 32100 Item 3 deleted and removed from cache
+INFO 2024-09-25 15:49:59,623 MainThread 9472 views views.py 53 inventory get_object 32100 Cache hit for item 5
+INFO 2024-09-25 15:49:59,628 MainThread 9472 views views.py 53 inventory get_object 32100 Cache hit for item 6
+ERROR 2024-09-25 15:49:59,630 MainThread 9472 views views.py 76 inventory update 32100 Error updating item 6: {'name': [ErrorDetail(string='This field may not be blank.', code='blank')]}
+INFO 2024-09-25 15:49:59,633 MainThread 9472 views views.py 58 inventory get_object 32100 Cache miss for item 7
+INFO 2024-09-25 15:49:59,635 MainThread 9472 views views.py 73 inventory update 32100 Item 7 updated and cache invalidated

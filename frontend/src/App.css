@@ -1,0 +1,8 @@
+.modal {
+    background-color: blue; /* Set the background color to blue */
+    /* Add any additional styling you need for the modal */
+}
+
+.blue-background {
+    background-color: blue; /* If you prefer to target it with an additional class */
+}

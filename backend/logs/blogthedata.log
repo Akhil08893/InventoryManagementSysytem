@@ -1,0 +1,132 @@
+WARNING 2024-09-25 10:45:28,967 log log.py 241 log_response Method Not Allowed: /api/items/
+WARNING 2024-09-25 10:46:31,670 log log.py 241 log_response Bad Request: /api/items/
+WARNING 2024-09-25 10:47:26,505 log log.py 241 log_response Bad Request: /api/items/
+WARNING 2024-09-25 11:19:28,052 log log.py 241 log_response Unauthorized: /api/items/3/
+WARNING 2024-09-25 11:34:01,735 log log.py 241 log_response Unauthorized: /api/items/
+WARNING 2024-09-25 11:34:01,735 log log.py 241 log_response Unauthorized: /api/items/
+WARNING 2024-09-25 11:34:01,748 log log.py 241 log_response Unauthorized: /api/token/refresh/
+WARNING 2024-09-25 11:34:01,748 log log.py 241 log_response Unauthorized: /api/token/refresh/
+WARNING 2024-09-25 11:36:29,639 log log.py 241 log_response Method Not Allowed: /api/items/
+WARNING 2024-09-25 11:36:29,691 log log.py 241 log_response Method Not Allowed: /api/items/
+WARNING 2024-09-25 11:36:31,712 log log.py 241 log_response Method Not Allowed: /api/items/
+WARNING 2024-09-25 11:36:31,762 log log.py 241 log_response Method Not Allowed: /api/items/
+WARNING 2024-09-25 11:36:36,713 log log.py 241 log_response Method Not Allowed: /api/items/
+WARNING 2024-09-25 11:36:36,765 log log.py 241 log_response Method Not Allowed: /api/items/
+WARNING 2024-09-25 11:36:37,669 log log.py 241 log_response Method Not Allowed: /api/items/
+WARNING 2024-09-25 11:36:37,717 log log.py 241 log_response Method Not Allowed: /api/items/
+WARNING 2024-09-25 11:36:50,454 log log.py 241 log_response Method Not Allowed: /api/items/
+WARNING 2024-09-25 11:36:50,504 log log.py 241 log_response Method Not Allowed: /api/items/
+WARNING 2024-09-25 11:36:52,425 log log.py 241 log_response Method Not Allowed: /api/items/
+WARNING 2024-09-25 11:36:52,485 log log.py 241 log_response Method Not Allowed: /api/items/
+WARNING 2024-09-25 11:36:55,340 log log.py 241 log_response Method Not Allowed: /api/items/
+WARNING 2024-09-25 11:36:55,427 log log.py 241 log_response Method Not Allowed: /api/items/
+WARNING 2024-09-25 11:45:37,437 log log.py 241 log_response Unauthorized: /api/items/get
+WARNING 2024-09-25 11:45:37,447 log log.py 241 log_response Unauthorized: /api/token/refresh/
+WARNING 2024-09-25 11:52:28,402 log log.py 241 log_response Unauthorized: /api/items/3/
+WARNING 2024-09-25 11:52:32,978 log log.py 241 log_response Unauthorized: /api/items/get
+WARNING 2024-09-25 11:52:32,987 log log.py 241 log_response Unauthorized: /api/items/get
+WARNING 2024-09-25 11:52:33,064 log log.py 241 log_response Unauthorized: /api/token/refresh/
+WARNING 2024-09-25 11:52:33,072 log log.py 241 log_response Unauthorized: /api/token/refresh/
+WARNING 2024-09-25 11:55:44,917 log log.py 241 log_response Unauthorized: /api/items/get
+WARNING 2024-09-25 11:55:44,924 log log.py 241 log_response Unauthorized: /api/items/get
+WARNING 2024-09-25 11:55:44,934 log log.py 241 log_response Unauthorized: /api/token/refresh/
+WARNING 2024-09-25 11:55:44,948 log log.py 241 log_response Unauthorized: /api/token/refresh/
+WARNING 2024-09-25 11:58:23,703 log log.py 241 log_response Unauthorized: /api/items/get
+WARNING 2024-09-25 11:58:23,707 log log.py 241 log_response Unauthorized: /api/items/get
+WARNING 2024-09-25 11:58:23,727 log log.py 241 log_response Unauthorized: /api/token/refresh/
+WARNING 2024-09-25 11:58:23,731 log log.py 241 log_response Unauthorized: /api/token/refresh/
+WARNING 2024-09-25 12:00:46,207 log log.py 241 log_response Unauthorized: /api/items/get
+WARNING 2024-09-25 12:00:46,214 log log.py 241 log_response Unauthorized: /api/items/get
+WARNING 2024-09-25 12:00:46,238 log log.py 241 log_response Unauthorized: /api/token/refresh/
+WARNING 2024-09-25 12:00:46,238 log log.py 241 log_response Unauthorized: /api/token/refresh/
+WARNING 2024-09-25 12:03:07,972 log log.py 241 log_response Unauthorized: /api/items/get
+WARNING 2024-09-25 12:03:07,978 log log.py 241 log_response Unauthorized: /api/items/get
+WARNING 2024-09-25 12:03:07,994 log log.py 241 log_response Unauthorized: /api/token/refresh/
+WARNING 2024-09-25 12:03:08,002 log log.py 241 log_response Unauthorized: /api/token/refresh/
+WARNING 2024-09-25 12:05:26,833 log log.py 241 log_response Unauthorized: /api/items/get
+WARNING 2024-09-25 12:05:26,839 log log.py 241 log_response Unauthorized: /api/items/get
+WARNING 2024-09-25 12:05:26,851 log log.py 241 log_response Unauthorized: /api/token/refresh/
+WARNING 2024-09-25 12:05:26,860 log log.py 241 log_response Unauthorized: /api/token/refresh/
+WARNING 2024-09-25 12:14:21,008 log log.py 241 log_response Unauthorized: /api/items/get
+WARNING 2024-09-25 12:14:21,008 log log.py 241 log_response Unauthorized: /api/items/get
+WARNING 2024-09-25 12:14:21,026 log log.py 241 log_response Unauthorized: /api/token/refresh/
+WARNING 2024-09-25 12:14:21,031 log log.py 241 log_response Unauthorized: /api/token/refresh/
+WARNING 2024-09-25 12:16:36,989 log log.py 241 log_response Unauthorized: /api/items/
+WARNING 2024-09-25 12:16:39,921 log log.py 241 log_response Unauthorized: /api/items/get
+WARNING 2024-09-25 12:16:39,928 log log.py 241 log_response Unauthorized: /api/items/get
+WARNING 2024-09-25 12:16:40,034 log log.py 241 log_response Unauthorized: /api/token/refresh/
+WARNING 2024-09-25 12:16:40,052 log log.py 241 log_response Unauthorized: /api/token/refresh/
+WARNING 2024-09-25 12:17:01,570 log log.py 241 log_response Bad Request: /api/items/
+WARNING 2024-09-25 12:18:49,477 log log.py 241 log_response Unauthorized: /api/items/
+WARNING 2024-09-25 12:18:51,245 log log.py 241 log_response Unauthorized: /api/items/get
+WARNING 2024-09-25 12:18:51,250 log log.py 241 log_response Unauthorized: /api/items/get
+WARNING 2024-09-25 12:18:51,345 log log.py 241 log_response Unauthorized: /api/token/refresh/
+WARNING 2024-09-25 12:18:51,353 log log.py 241 log_response Unauthorized: /api/token/refresh/
+WARNING 2024-09-25 12:19:14,604 log log.py 241 log_response Bad Request: /api/items/
+WARNING 2024-09-25 12:30:01,334 log log.py 241 log_response Unauthorized: /api/items/get
+WARNING 2024-09-25 12:30:01,338 log log.py 241 log_response Unauthorized: /api/items/get
+WARNING 2024-09-25 12:30:01,344 log log.py 241 log_response Unauthorized: /api/token/refresh/
+WARNING 2024-09-25 12:30:01,347 log log.py 241 log_response Unauthorized: /api/token/refresh/
+WARNING 2024-09-25 12:58:03,577 log log.py 241 log_response Unauthorized: /api/items/
+WARNING 2024-09-25 12:58:03,577 log log.py 241 log_response Unauthorized: /api/items/
+WARNING 2024-09-25 12:58:03,577 log log.py 241 log_response Unauthorized: /api/items/999/
+WARNING 2024-09-25 12:58:03,594 log log.py 241 log_response Unauthorized: /api/items/4/
+WARNING 2024-09-25 12:58:03,596 log log.py 241 log_response Unauthorized: /api/items/999/
+WARNING 2024-09-25 12:58:03,601 log log.py 241 log_response Unauthorized: /api/items/6/
+WARNING 2024-09-25 12:58:03,601 log log.py 241 log_response Unauthorized: /api/items/7/
+WARNING 2024-09-25 12:58:03,601 log log.py 241 log_response Unauthorized: /api/items/8/
+WARNING 2024-09-25 13:05:07,193 log log.py 241 log_response Unauthorized: /api/items/
+WARNING 2024-09-25 13:05:07,761 log log.py 241 log_response Unauthorized: /api/items/
+WARNING 2024-09-25 13:05:08,329 log log.py 241 log_response Unauthorized: /api/items/999/
+WARNING 2024-09-25 13:05:08,832 log log.py 241 log_response Unauthorized: /api/items/4/
+WARNING 2024-09-25 13:05:09,365 log log.py 241 log_response Unauthorized: /api/items/999/
+WARNING 2024-09-25 13:05:09,898 log log.py 241 log_response Unauthorized: /api/items/6/
+WARNING 2024-09-25 13:05:10,415 log log.py 241 log_response Unauthorized: /api/items/7/
+WARNING 2024-09-25 13:05:11,012 log log.py 241 log_response Unauthorized: /api/items/8/
+WARNING 2024-09-25 13:54:37,211 log log.py 241 log_response Bad Request: /api/items/
+WARNING 2024-09-25 13:54:37,919 log log.py 241 log_response Bad Request: /api/items/
+WARNING 2024-09-25 13:54:38,577 log log.py 241 log_response Not Found: /api/items/999/
+WARNING 2024-09-25 13:54:39,930 log log.py 241 log_response Not Found: /api/items/999/
+WARNING 2024-09-25 13:54:41,037 log log.py 241 log_response Bad Request: /api/items/7/
+WARNING 2024-09-25 14:10:37,538 log log.py 241 log_response Bad Request: /api/items/
+WARNING 2024-09-25 14:10:37,545 log log.py 241 log_response Bad Request: /api/items/
+WARNING 2024-09-25 14:10:37,550 log log.py 241 log_response Not Found: /api/items/999/
+WARNING 2024-09-25 14:10:37,557 log log.py 241 log_response Not Found: /api/items/999/
+WARNING 2024-09-25 14:10:37,566 log log.py 241 log_response Bad Request: /api/items/7/
+WARNING 2024-09-25 14:12:29,855 log log.py 241 log_response Bad Request: /api/items/
+WARNING 2024-09-25 14:12:29,861 log log.py 241 log_response Not Found: /api/items/999/
+WARNING 2024-09-25 14:12:29,871 log log.py 241 log_response Not Found: /api/items/999/
+WARNING 2024-09-25 14:12:29,878 log log.py 241 log_response Bad Request: /api/items/6/
+WARNING 2024-09-25 14:23:38,198 log log.py 241 log_response Unauthorized: /api/items/get
+WARNING 2024-09-25 14:23:38,200 log log.py 241 log_response Unauthorized: /api/items/get
+WARNING 2024-09-25 14:23:38,249 log log.py 241 log_response Unauthorized: /api/token/refresh/
+WARNING 2024-09-25 14:23:38,250 log log.py 241 log_response Unauthorized: /api/token/refresh/
+WARNING 2024-09-25 14:28:37,560 log log.py 241 log_response Unauthorized: /api/items/get
+WARNING 2024-09-25 14:28:37,563 log log.py 241 log_response Unauthorized: /api/items/get
+WARNING 2024-09-25 14:28:37,570 log log.py 241 log_response Unauthorized: /api/token/refresh/
+WARNING 2024-09-25 14:28:37,571 log log.py 241 log_response Unauthorized: /api/token/refresh/
+WARNING 2024-09-25 14:30:43,954 log log.py 241 log_response Not Found: /api/items/1/
+WARNING 2024-09-25 14:30:45,338 log log.py 241 log_response Method Not Allowed: /api/items/
+WARNING 2024-09-25 14:30:52,342 log log.py 241 log_response Not Found: /api/items/8/
+WARNING 2024-09-25 14:31:14,463 log log.py 241 log_response Unauthorized: /api/items/get
+WARNING 2024-09-25 14:31:14,466 log log.py 241 log_response Unauthorized: /api/items/get
+WARNING 2024-09-25 14:31:14,487 log log.py 241 log_response Unauthorized: /api/token/refresh/
+WARNING 2024-09-25 14:31:14,493 log log.py 241 log_response Unauthorized: /api/token/refresh/
+WARNING 2024-09-25 14:31:49,722 log log.py 241 log_response Bad Request: /api/items/
+WARNING 2024-09-25 14:31:49,734 log log.py 241 log_response Not Found: /api/items/999/
+WARNING 2024-09-25 14:31:49,754 log log.py 241 log_response Not Found: /api/items/999/
+WARNING 2024-09-25 14:31:49,768 log log.py 241 log_response Bad Request: /api/items/6/
+WARNING 2024-09-25 15:42:23,454 log log.py 241 log_response Unauthorized: /api/items/get
+WARNING 2024-09-25 15:42:23,457 log log.py 241 log_response Unauthorized: /api/items/get
+WARNING 2024-09-25 15:42:23,519 log log.py 241 log_response Unauthorized: /api/token/refresh/
+WARNING 2024-09-25 15:42:23,538 log log.py 241 log_response Unauthorized: /api/token/refresh/
+WARNING 2024-09-25 15:44:08,586 log log.py 241 log_response Not Found: /api/items/1/
+WARNING 2024-09-25 15:44:09,635 log log.py 241 log_response Method Not Allowed: /api/items/
+WARNING 2024-09-25 15:45:25,362 log log.py 241 log_response Bad Request: /api/items/
+WARNING 2024-09-25 15:45:25,371 log log.py 241 log_response Not Found: /api/items/999/
+WARNING 2024-09-25 15:45:25,379 log log.py 241 log_response Not Found: /api/items/999/
+WARNING 2024-09-25 15:45:25,385 log log.py 241 log_response Bad Request: /api/items/6/
+WARNING 2024-09-25 15:49:59,603 log log.py 241 log_response Bad Request: /api/items/
+WARNING 2024-09-25 15:49:59,610 log log.py 241 log_response Not Found: /api/items/999/
+WARNING 2024-09-25 15:49:59,619 log log.py 241 log_response Not Found: /api/items/999/
+WARNING 2024-09-25 15:49:59,630 log log.py 241 log_response Bad Request: /api/items/6/
